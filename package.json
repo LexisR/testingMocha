@@ -1,0 +1,14 @@
+{
+  "name": "testmocha",
+  "version": "1.0.0",
+  "description": "propando mocha",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "lexis",
+  "license": "ISC"
+}
